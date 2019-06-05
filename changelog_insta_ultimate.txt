@@ -1,20 +1,16 @@
 {"version_code":153386780,"content":"
 <p>تحديث 1.00</p>
 
-<li> اعادة اضافة إخفاء انك شاهدت القصص(الستوري) </li>
-<li> اعادة إضافة ايقونة للدخول الى قسم الاضافات والخصائص في قسم البروفايل</li>
-<li> اعادة إضافة خيار لتشغيل الصوت مع الفيديو بشكل تلقائي</li>
-<li> اصلاح عدم امكانية تحميل الصور/الفيديوهات  من الحسابات الخاصة</li>
-<li> دعم نظام pie 9.0</li>
-<li> دعم اللغة الايطالية</li>
-<li> اصلاح انهيار التطبيق بنسبة 90%</li>
-
-<li> ReAdded Option to Start Audio Directly with Video</li>
-<li> ReAdded InstaUltra Settings Icon on Header of profile</li>
-<li> ReAdded Privacy - Hide View Status</li>
-<li> Support Italian languages (thanks to tony)</li>
-<li> Fixed Download Video/Images Options (private accounts)</li>
-<li> Fixed InstaUltra crash (90%)</li>
+<li>• [Super Exclusive][Privacy] View Others Story Anonymously</li>
+<li>• [Super Exclusive][Privacy] View Others Live Anonymously</li>
+<li>• [Super Exclusive][Privacy] Hide Seen in DM's (Don't let others Know that you read their Message in DM's)</li>
+<li>• [Exclusive] Download Media (Pic/Video) from Story and Post</li>
+<li>• [Exclusive] Zoom Profile Picture (Long Press on Profile Pic.)</li>
+<li>• [Exclusive] Copy Anybody Bio's (Just Tap on Bio) </li>
+<li>• [Exclusive] Copy Any Bio's (Just Select Comment and Tap Copy Button from Header) </li>
+<li>• [Exclusive] Night Mode for PicIt Settings</li>
+<li>• [Exclusive] Start Video Directly with Sound</li>
+<li>• [Exclusive] Share Media URL (Pic/Video) to share</li>
 
 
 
